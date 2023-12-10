@@ -1,0 +1,32 @@
+---
+title: 'Beware the Moral Monopoly'
+date: Sun, 24 Jan 2021 21:25:47 +0000
+draft: false
+tags: ['Uncategorized']
+---
+
+There is the way life works and there is the way I wish life worked. This is how I wish it worked: if you have good intentions, you are guaranteed to make good decisions. However, it doesn't take much imagination to produce scenarios where this isn't the case. For example, I may have good intentions to fix my friend's car, but unless I've gained knowledge in car mechanics somewhere along the way, I may actually do more harm than good. Or I may have good intentions by giving an alcoholic family member money when this could likely be enabling bad behavior. This is also very applicable to politics. A politician claiming better intent than an opponent does not automatically mean proposed policies will make the world a better place, and in fact could be utterly counterproductive.
+
+Let's examine a policy that sounds compassionate, such as rent controls, in which laws are created disallowing rents to rise above a certain price. The intention is to help people afford a place to live, so it must be good, right?
+
+[A study done in 2012](https://www.sfgate.com/nation/article/More-Americans-living-alone-census-says-4769727.php) showed that 49 percent of people living in rent-controlled apartments had a single occupant, while a severe shortage in the city had thousands of people living considerable distances away and making long commutes to their jobs. A Census report showed a similar story in Manhatten, where nearly half of all apartments are under some form of rent control, with 46 percent of all households having one occupant - compared to the national average of 27 percent. When rent controls were introduced in Berkeley, California, the number of private rental housing units available to students at the university there declined by 31 percent in five years.
+
+This actually makes a lot of sense when you examine the relationship between incentives and prices. Prices act as a natural rationing mechanism. For example, there are only so many beachfront properties in existence. As a result, the prices tend to be high, and not everybody can afford one. But not everybody could own a beachfront property anyway, regardless of whether prices are high or low, simply because there's a limited supply.
+
+Prices naturally ration scarce resources that would still have to be rationed another way if money was no longer a factor. If the government decreed that beachfront properties were totally free, we'd still need to create a system of rationing, whether that be a lottery system or simply first come first serve, leaving other people who wanted a beachfront house without one.
+
+When rent is high, this means supply is low relative to the demand, meaning more people want stuff than the amount of stuff that actually exists. One way to increase the supply is to ration more strictly. High prices incentivize people to ration the existing supply, for example, taking on an extra roommate to help pay the rent or the mortgage, empty-nester couples downgrading from a 4 bedroom to a 2 bedroom home, or 18-year-olds living with their parents a bit longer than they normally would. If price controls are artificially lowered, this incentive to ration is removed, leading to housing shortages as people have no reason to avoid using up the existing supply without discretion. This ultimately makes it harder for people to acquire a place to live. This hurts low-income people in particular because builders are no longer incentivized to build housing that is subject to rent controls, meaning they are more likely to build luxury housing. This is the exact opposite of the intended goal of what appears to be a policy to help poor people.
+
+Just as artificially low prices create shortages, prices that are set artificially high creates a surplus. In the case of minimum wage laws, this means a surplus of human beings as the young, inexperienced, and poor get priced out of the job market and the opportunity to step onto the first rung of the income ladder is taken away.
+
+There is a surfeit of [studies](https://www.fraserinstitute.org/sites/default/files/MeasuringLabourMarket2003.pdf) that have shown in country after country that minimum wage laws lead to higher unemployment, disproportionality among the young, poor, and inexperienced. Regardless of what laws are on the books, the real minimum wage is zero, which is what many people earn after minimum wage laws are passed.
+
+Now, imagine two politicians, one who is a proponent of minimum wage laws and one who isn't. Which one is easier to vilify? Which one is more likely to get the vote of the person who votes with their gut or their feelings rather than data and empirical studies? There are few things more frustrating than praise for policies that harm minorities and low-income people, by people who believe they have a monopoly on good intentions. Such monopolists effectively become zealots in a cause of counterproductivity while wholeheartedly believing in their angelic mission.
+
+And herein lies the root of much political strife. The vast majority want a better life for all, but we may simply disagree on the methods to get there. Having good intentions does not give you the license to follow the first gut reaction policy that comes to mind, and accuse others who disagree with you of greed and parsimony.
+
+What I'm asking us all to do is to pause before we accuse those we disagree with of being self-serving and uncaring. Try to imagine why somebody would be for or against a policy and still be good-intentioned.
+
+There's a certain portion of the population who won't be convinced unless you can frame your policy ideas in terms of incentives and tangible consequences, not merely feel goods. I am a member of this group. We should have learned from the 60's the danger of "if-it-feels-good-do-it". I demand data and the right to dispassionately analyze the data, and to make decisions accordingly without being labeled a misanthropist.
+
+Beware of simple, no-brainer solutions, not because good solutions are never simple. Be leery simply because such solutions can lead to overconfidence and dogma, and a misplaced feeling of moral monopoly. Once that happens, you lose the ability to consider an opposing opinion, and that is a dangerous place to be.
