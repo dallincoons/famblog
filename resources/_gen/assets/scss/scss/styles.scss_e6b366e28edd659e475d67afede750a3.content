@@ -403,17 +403,6 @@ body {
   @media (min-width: 500px) {
     body {
       font-size: 1em; } }
-.title {
-  -webkit-margin-before: 70px;
-          margin-block-start: 70px;
-  -webkit-margin-after: 50px;
-          margin-block-end: 50px; }
-  @media (min-width: calc(1200px + 25px + 25px)) {
-    .title {
-      -webkit-margin-before: 100px;
-              margin-block-start: 100px;
-      -webkit-margin-after: 80px;
-              margin-block-end: 80px; } }
 h1,
 .h1 {
   font-family: var(--condensed-font-family);
