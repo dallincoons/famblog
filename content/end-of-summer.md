@@ -7,7 +7,7 @@ tags: ['Uncategorized']
 
 Emily has been attending dance class and has been working on a performance inspired by the Barbie movie. Watch the video here and see if you can spot her:
 
-https://www.youtube.com/embed/JYefhluzI5o?si=hFCzdrd3jVehkN7W
+{{< youtube JYefhluzI5o >}}
 
 I've been going to Ninja Warrior class that Mark introduced me to which has been a fun (and challenging) way to stay in shape. I was quite bad at it at first but have improved drastically since I started attending which has been rewarding.
 
