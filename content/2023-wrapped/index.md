@@ -155,6 +155,8 @@ After:
 
 Emily is considering a tattoo and has been playing with placements using fake tattoos. Stay tuned.
 
+![](outsidehouseprogress.png)
+
 ## Conclusion
 
 There's no conclusion. I think it would be cool if I wrote more next year though.
