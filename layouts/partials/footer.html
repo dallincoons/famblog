@@ -1,0 +1,33 @@
+<footer class="footer">
+    <div class="container wrap">
+
+    </div>
+</footer>
+
+{{/* Theme: Hover Intent */}}
+{{ $js := resources.Get "js/hoverintent.min.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+
+{{/* Theme: FAQ */}}
+{{ if and (eq .Type "faq") (eq .Kind "section") }}
+{{ $js := resources.Get "js/accordion.js" }}
+<script defer src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* Theme: Scripts */}}
+{{ $js := resources.Get "js/scripts.js" }}
+{{ if eq (getenv "HUGO_ENV") "production" }}
+{{ $js = $js | resources.Minify | resources.Fingerprint }}
+<script defer src="{{ $js.Permalink }}" integrity="{{ $js.Data.Integrity }}"></script>
+{{ else }}
+<script defer src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* Shortcode: YouTube Enhanced */}}
+{{ if .HasShortcode "youtube_enhanced" }}
+{{ $js := resources.Get "js/youtube-lite.js" | resources.Minify }}
+<script type="module" src="{{ $js.Permalink }}"></script>
+{{ end }}
+
+{{/* User: Custom JS */}}
+{{- partial "footer/custom-js.html" . }}
