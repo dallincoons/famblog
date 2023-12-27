@@ -87,6 +87,10 @@ We’ve visited a lot of car shows in the first half of the year but it seems he
 
 ![](calvincarshow2.jpg)
 
+Lately he's been interested in looking under the hood of real cars and pretending to fix them. I try to point out the various parts the best I can and I've been learning more on how cars actually work so I can maybe not feed him total misinformation.
+
+![](calvinworkingonrealcar.jpeg)
+
 His favorite evening time activity has been to do “silly tricks” with Daddy, which means Daddy has to come up with entertaining things to do, like ghost hunting, inventing new jumps, playing games like Marco Polo, or the game of “dealership” where Calvin comes to my dealership in the backyard and tests drives a car which means running as fast as he can around the yard.
 
 In the Fall Calvin began attending preschool at the Catholic church nearby. He attends with his cousin Karis and it seems like it’s been good for him to get more socialization. He genuinely enjoys going, it tends to be the highlight of his week.
