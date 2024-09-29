@@ -4,7 +4,7 @@ date: 2024-04-14T16:04:06-05:00
 draft: false
 ---
 
-In March, my parents visited from Arizona. We took them to nowhere Oklahoma to eat some yummy food and go to a museum. The restaurant we were going to go to had an hour-long wait time so we settled for some yummy pizza, with which were not disappointed at all. 
+In March, my parents visited from Arizona. We took them to nowhere Oklahoma to eat some yummy food and go to a museum. The restaurant we were going to go to had an hour-long wait time so we settled for some yummy pizza, with which we were not disappointed at all. 
 
 ![](okpizza.jpeg)
 
