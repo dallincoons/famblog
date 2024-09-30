@@ -1,7 +1,7 @@
 ---
 title: 'Summer 2024'
 date: 2024-09-18T03:41:10-05:00
-draft: true`
+draft: false
 ---
 
 Summer 2024. It was one for the ages. Emily went to Utah for 2 months and I stayed in Oklahoma. In July, I went on a road trip. First stop, Durango where I met up with my parents, Shauni and Jordan, Megan and Todd, and their respective families. We did Durango things. Rafting, ruins, ice cream, dinner and a show, mountain biking. That sorta thang.
