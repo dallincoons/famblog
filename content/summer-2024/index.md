@@ -57,7 +57,7 @@ Here's Calvin's possible first exposure to the world of cars (although we called
 ![](./firstexposure.jpeg)
 
 # Arizona
-After I visited Utah, I roadtripped down to my favorite state, Arizona, to go to my brother wedding. It was a Mormon wedding and I wouldn't have been able to go inside the temple to see the actual ceremony. But seeing people and being supportive is the most important thing. 
+After I visited Utah, I roadtripped down to my favorite state, Arizona, to go to my brotherss wedding. It was a Mormon wedding and I wouldn't have been able to go inside the temple to see the actual ceremony. But seeing people and being supportive is the most important thing. 
 
 ![](./templewedding.jpg)
 
@@ -79,16 +79,18 @@ We stayed at a hotel in Wichita. We had a difficult time getting Calvin to go to
 ![](./calvinathotel.jpg)
 
 # Back Home 
-I got a vasectomy. It was no biggie. Every dude who doesn't want kids anymore should do it. Really - just do it. I was prescribed but I didn't need it and I didn't use it.
+I got a vasectomy. It was no biggie. Every dude who doesn't want kids anymore should do it. Really - just do it. I was prescribed Valium but I didn't need it and I didn't use it.
+
 ![](./valium.jpg)
 
 A couple weeks after the vasectomy, I got a new piercing.
 ![](./newpierce.jpg)
 
-Calvin has been "pranking" me by putting random stuff where I'll stumble on them, like under my blanket in my bed. I found this at my work desk.
+Calvin has been "pranking" me by putting random stuff where I'll stumble on them, like under the blanket on my bed. I recently found this at my work desk.
 ![](./calvinprank.jpg)
 
 Calvin has been interested in legos for a while, but has never had the dexterity to actually use them. Very recently he's gained the motor skills to put them together, albeit with some occasional help. He's spent entire days following instructions to put together various lego structures.
+
 ![](./calvinlegos1.jpg)
 ![](./calvinlegos2.jpg)
 ![](./calvinlegos3.jpg)
