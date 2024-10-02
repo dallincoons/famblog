@@ -57,7 +57,7 @@ Here's Calvin's possible first exposure to the world of cars (although we called
 ![](./firstexposure.jpeg)
 
 # Arizona
-After I visited Utah, I roadtripped down to my favorite state, Arizona, to go to my brotherss wedding. It was a Mormon wedding and I wouldn't have been able to go inside the temple to see the actual ceremony. But seeing people and being supportive is the most important thing. 
+After I visited Utah, I roadtripped down to my favorite state, Arizona, to go to my brother's wedding. It was a Mormon wedding and I wouldn't have been able to go inside the temple to see the actual ceremony. But seeing people and being supportive is the most important thing. 
 
 ![](./templewedding.jpg)
 
