@@ -100,6 +100,9 @@ We're in shock that this day is already here, but Calvin has officially graduate
 ![calvingraduation](calvingraduation.jpeg)
 ![congratulations](congratulations.jpeg)
 
+Speaking of school, Emily made it through her first semester since going "back to school". If you didn't know, her goal is to become a therapist. She took two classes this year - no small feat when you're a full-time parent to a toddler and juggling contract work as a product packaging designer.
+
+M'kay have some cute pictures.
 
 ![casual](casual.jpg)
 
