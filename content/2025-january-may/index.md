@@ -1,3 +1,8 @@
+---
+title: '2025 January Through May'
+date: 2025-05-18T12:42:01-06:00
+draft: false
+---
 
 We don't go to as many car shows as we once did, as Calvin seems to have lost interest in them somewhat, but every now and then we make it out.
 <!--more-->
