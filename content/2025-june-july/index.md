@@ -4,7 +4,9 @@ date: 2025-08-03T22:18:44-05:00
 draft: false
 ---
 
-Emily and Calvin spent a month and a half in Utah while Calvin was out of school for the summer. I stayed home for a month so I could keep working. <!--more--> Technically I can work from anywhere, but I have a fair amount of hardware that I use when testing various functions of our software, and it's hard to lug it all to a different place. Also, I tend to have an easier time being emotionally stable when I'm at home in my home environment.
+Emily and Calvin spent a month and a half in Utah while Calvin was out of school for the summer. I stayed home for a month so I could keep working. Technically I can work from anywhere, but I have a fair amount of hardware that I use when testing various functions of our software, and it's hard to lug it all to a different place. Also, I tend to have an easier time being emotionally stable when I'm at home in my home environment.
+
+<!--more-->
 
 Emily sent me pictures from her time there. I did go and visit for a couple of weeks in July, before we all flew home to Owasso.
 
