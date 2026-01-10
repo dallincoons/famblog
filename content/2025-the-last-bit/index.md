@@ -1,7 +1,7 @@
 ---
 title: '2025 the Last Bit'
 date: 2026-01-01T19:57:28-06:00
-draft: true
+draft: false
 ---
 
 It's 2026 and I haven't done one of these blog post things in a while, so there's a lot to catch up on – starting all the way from summer 2025.
